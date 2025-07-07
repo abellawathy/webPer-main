@@ -862,45 +862,5 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 
 
-.licenses-certifications {
-    position: relative;
-    padding: 60px 0;
-  }
-
-  .owl-carousel .item {
-    text-align: center;
-    padding: 10px;
-  }
-
-  .owl-nav-button {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    background: #ffffffdd;
-    border: none;
-    font-size: 24px;
-    padding: 8px 12px;
-    cursor: pointer;
-    z-index: 1000;
-    color: #444;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  }
-
-  .owl-nav-button:hover {
-    background: #ddd;
-  }
-
-  .custom-prev {
-    left: -40px;
-  }
-
-  .custom-next {
-    right: -40px;
-  }
-
-  .owl-carousel-wrapper {
-    position: relative;
-    padding: 0 60px; /* Tambahkan ruang untuk tombol */
-  }
 
 /*========================Thank you=================
